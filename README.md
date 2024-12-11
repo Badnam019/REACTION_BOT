@@ -1,2 +1,2 @@
 # Telegram Reaction Bot
-# Write in java script BY :- ˹ ʙᴀʙʏ-ᴍᴜsɪᴄ ™˼𓅂
+# Write in java script BY :- ˹ Badnam xd
