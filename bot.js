@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const axios = require('axios');
 
 // Your bot's token (replace it with your actual token)
-const token = '7463542222:AAF14OHfN8mh5rstHUI5L6IZRITjHahBJYQ';
+const token = '7517623382:AAHn-YeqKhUc_fffz9ljNkgf_NXQgGmuSho';
 
 // Create a new bot instance
 const bot = new TelegramBot(token, { polling: true });
@@ -25,8 +25,8 @@ bot.onText(/\/start/, (msg) => {
     reply_markup: {
       inline_keyboard: [
         [{
-          text: 'Join ðŸ‘‹',
-          url: 'https://t.me/BABY09_WORLD' // Replace with your channel link
+          text: 'join group‘‹',
+          url: 'https://t.me/SYSTEM_SUPPROT_GROUP' // Replace with your channel link
         }]
       ]
     }
