@@ -26,7 +26,7 @@ bot.onText(/\/start/, (msg) => {
       inline_keyboard: [
         [{
           text: 'Join ðŸ‘‹',
-          url: 'https://t.me/BABY09_WORLD' // Replace with your channel link
+          url: 'https://t.me/SYSTEM_SUPPROT_GROUP' // Replace with your channel link
         }]
       ]
     }
